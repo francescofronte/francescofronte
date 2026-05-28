@@ -12,6 +12,7 @@ I am based in Stockholm, Sweden.
 -   Java
 -   Python
 -   HTML/CSS
+-   SQL
 -   VSCode
 -   Generative AI
 
