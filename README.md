@@ -14,7 +14,7 @@ I am based in Stockholm, Sweden.
 ## Projects
 - [Webapp for PDF watermarking](https://github.com/SoftSec-13/softsec-tatou)
   Wrote API documentation, developed test suite, ran mutation testing.
-- [Java mailapp](https://github.com/francescofronte/softsec-tatou)
+- [Java mailapp]([https://github.com/francescofronte/softsec-tatou](https://github.com/francescofronte/Programmazione-3-Progetto--2023-24-))
   MVC-based client-server email application written in Java.
 - [CalcioMetrix](https://github.com/francescofronte/FerreroForlanoFronte)
   Web dev project developed using HTML (Bootstrap), Java, JavaScript, PostgreSQL
