@@ -4,6 +4,10 @@ I am a junior CS and InfoSec graduate with a special interest in Software Develo
 I have hands-on experience with Generative AI as a support tool for programming.
 I am based in Stockholm, Sweden.
 
+## 🎓 Education:
+-   Master's degree in Information Security (Stockholm University)
+-   Bachelor's Degree in Computer Science (University of Turin)
+
 ## 🛠 Skills and Tools:
 -   Java
 -   Python
