@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a junior CS and InfoSec graduate with a special interest in Software Development.
-I have hands-on experience with Generative AI as a support tool for programming.
-I am based in Stockholm, Sweden.
+I am a junior CS and InfoSec graduate with a special interest in Software Development.\
+I have a big interest and hands-on experience with Generative AI as a support tool for programming.\
+I am based in Stockholm, Sweden.\
 
 ## 🎓 Education:
 -   Master's degree in Information Security (Stockholm University)
@@ -16,12 +16,12 @@ I am based in Stockholm, Sweden.
 -   Generative AI
 
 ## Projects
-- [Webapp for PDF watermarking](https://github.com/SoftSec-13/softsec-tatou)
-  Wrote API documentation, developed test suite, ran mutation testing.
+- [Tatou](https://github.com/SoftSec-13/softsec-tatou)
+  Webapp for PDF watermarking. Wrote API documentation, developed test suite, ran mutation testing.
 - [Java mailapp](https://github.com/francescofronte/Programmazione-3-Progetto--2023-24-)
   MVC-based client-server email application written in Java.
 - [CalcioMetrix](https://github.com/francescofronte/FerreroForlanoFronte)
-  Web dev project developed using HTML (Bootstrap), Java, JavaScript, PostgreSQL
+  Web dev project on football statistics and metrics developed using HTML (Bootstrap), Java, JavaScript, PostgreSQL
 
 <!--
 **francescofronte/francescofronte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
