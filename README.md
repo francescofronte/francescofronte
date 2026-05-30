@@ -13,6 +13,7 @@ I am based in Stockholm, Sweden.
 -   Python
 -   HTML/CSS
 -   SQL
+-   Visual Studio
 -   VSCode
 -   Generative AI
 
