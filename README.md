@@ -11,6 +11,8 @@ I am based in Stockholm, Sweden.
 ## 🛠 Skills and Tools:
 -   Java
 -   Python
+-   C
+-   C# / .NET
 -   HTML/CSS
 -   SQL
 -   Visual Studio
