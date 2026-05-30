@@ -20,6 +20,8 @@ I am based in Stockholm, Sweden.
 -   Generative AI
 
 ## Projects
+- [HardwareStore](https://github.com/francescofronte/HardwareStore)
+  Simple webapp to manage the inventory of a hardware store. Developed as a .NET/C# coding exercise and example.
 - [Tatou](https://github.com/SoftSec-13/softsec-tatou)
   Webapp for PDF watermarking. Wrote API documentation, developed test suite, ran mutation testing.
 - [Java mailapp](https://github.com/francescofronte/Programmazione-3-Progetto--2023-24-)
