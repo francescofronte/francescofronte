@@ -24,7 +24,7 @@ I am based in Stockholm, Sweden.
   Simple webapp to manage the inventory of a hardware store. Developed as a .NET/C# coding exercise and example.
 - [Tatou](https://github.com/SoftSec-13/softsec-tatou)
   Webapp for PDF watermarking. Wrote API documentation, developed test suite, ran mutation testing.
-- [Java mailapp](https://github.com/francescofronte/Programmazione-3-Progetto--2023-24-)
+- [Java mailapp](https://github.com/francescofronte/Java-mailapp)
   MVC-based client-server email application written in Java.
 - [CalcioMetrix](https://github.com/francescofronte/FerreroForlanoFronte)
   Web dev project on football statistics and metrics developed using HTML (Bootstrap), Java, JavaScript, PostgreSQL.
